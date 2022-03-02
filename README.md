@@ -7,4 +7,4 @@ Tugas Sekolah :)
 
 ### Demo
 
-https://final-project-3z7x1l5ke-lashdid19.vercel.app/
+https://datain.vercel.app/

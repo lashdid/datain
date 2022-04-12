@@ -1,9 +1,6 @@
-# final-project
+# Datain.
 
 Tugas Sekolah :)
-
-
-## Final ( full version )
 
 ### Demo
 
